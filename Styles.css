@@ -6,10 +6,15 @@ h3 {
     color: #2d426b;
     text-align: center;
 }
+h2 {
+    color: #e29b15;
+    text-align: center;
+}
 body {
-    background-color: #d3bfab;
+    background-color: #c3dce7;
 }
 button {
     color: #fff;
     background-color: #025157;
+    
 }
